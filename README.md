@@ -1,4 +1,3 @@
-Tic-Tac-Toe Java Implementation – Summary
 This Java program implements a simple Tic-Tac-Toe game between a player and a computer using a 2D array to represent the board. The program features user input validation, a randomized AI opponent, and checks for win/draw conditions. The game continues until a player wins or the board is full.
 
 Key Features:
